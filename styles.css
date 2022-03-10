@@ -1,0 +1,22 @@
+
+li {
+    color: blue;
+}
+
+.alert-text {
+    color: orange
+}
+
+h1{
+    color:red;
+    font-size: 40px;
+}
+
+p {
+    color: black;
+}
+
+body{
+    background-color: rgb(235, 241, 181);
+    text-align: justify;
+    }
